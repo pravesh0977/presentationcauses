@@ -1,0 +1,128 @@
+body {
+    background: #8EFFB1;
+    font-family:sans-serif;
+    margin:20px;
+    font-size:24px;
+    text-align:justify;
+}
+#mainbox {
+    
+}
+h3 {
+    font-weight:bold;
+    text-decoration:underline;
+    text-align: center;
+}
+p {
+    font-size: 20px
+}
+#heartlogo {
+    display:block;
+    margin: 10px auto 70px;
+}
+@media only screen and (max-width: 750px) {
+    body {
+        background-color: #E2E87E;
+        font-size:18px;
+    }
+    h3 {
+       font-size:18px;
+   }
+p {
+       font-size:14px;
+   }
+.navbar {
+       font-size: 16px;
+   }
+   
+}
+#form2reg input{
+   max-width:300px;
+}
+
+#inputEmail3 {
+   max-width: 300px;
+}
+
+#inputPassword3 {
+     max-width: 300px;
+}
+h1 {
+    
+}
+footer {
+    height:15vh;
+    margin-top: 30px;
+}
+#footerdiv1 {
+    background-color:#000B4F;
+    color:white;
+    text-align:center;
+    height:inherit;
+}
+
+#aboutimgfirst {
+    margin:0 auto;
+}
+#aboutmain {
+    margin: 40px 0px 40px 0px;
+    border:solid orange 5px;
+}
+#bikeimg {
+    margin:0 auto;
+}
+.fa {
+    padding:5px;
+    margin-right:10px;
+    color:darkturquoise;
+    
+}
+.fa:hover {
+    color: blanchedalmond;
+}
+#footerdiv2 {
+    background-color:#4F3E28;
+    font-size:18px;
+    text-align:center;
+    color:darkturquoise;
+    height:inherit;
+}
+#clearingdiv {
+    clear:both;
+}
+#messageboard {
+/*    height:200px;*/
+    width:80%;
+    margin:0 auto;
+    background:#25330D;
+    color:antiquewhite;
+    
+}
+.yesDonate {   
+}
+#firstName, #lastName, #enterEmail, #enterPassword, #createbutton {
+    margin:10px 0px 10px 0px;
+}
+.yesDonate, .noDonate {
+    margin:20px 0px 10px 50px;
+}
+.imagebar {
+    
+    display:block;
+    margin:0 auto;   
+}
+.printReceipt {
+    text-align:center;
+}
+.receipt {
+    text-align:center;
+    margin:20px 0px 0px 10px;
+}
+.formdiv {
+    text-align:center;
+}
+.resetmyform {
+    position:relative;
+
+    margin:5px;
+}
